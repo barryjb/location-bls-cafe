@@ -1,0 +1,7 @@
+051123
+1 page website.
+Mobile / responsive first design.
+Native javascript hamburger menu for smaller screens / responsive design.
+Hero section, about section, menu section, contact / directions section, booking section.
+Background to be full screen video.  Sections to be parallax effect over the full screen background.
+BJB
